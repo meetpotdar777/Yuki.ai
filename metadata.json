@@ -1,0 +1,8 @@
+{
+  "name": "Yuki.ai",
+  "description": "A high-performance, anime-themed AI assistant featuring Gemini Live Audio, advanced image generation/editing, and complex thinking capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
