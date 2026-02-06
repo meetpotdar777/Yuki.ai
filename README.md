@@ -2,8 +2,6 @@
 
 Yuki.ai is a high-performance, anime-themed AI assistant powered by the latest Gemini 3 and 2.5 series models. It provides a seamless, multi-modal experience combining real-time voice interaction, advanced reasoning, and creative image generation.
 
-**Written by Me**
-
 ## 🌟 Key Features
 
 - **Live Voice Interaction**: Powered by `gemini-2.5-flash-native-audio-preview-12-2025`, Yuki responds in real-time with human-like spoken audio.
